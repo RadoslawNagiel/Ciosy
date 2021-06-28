@@ -1,0 +1,26 @@
+0 Trawa
+1 Drzewo
+2 Kamieñ
+3 Woda
+4 Piasek
+5 Miêso
+6 Patyk
+7 Kamyk
+8 liœæ
+9 krzak
+9.1 krzak czerwony
+9.2 krzak niebieski
+9.3 krzak fioletowy
+9.4 krzak ¿ó³ty
+10 siekiera
+11 ³opata
+12 kilof
+13 miska
+13.1 miska21
+14 ognisko
+15 maczuga
+16 dzida
+17 pieñ
+17.2 2 pnie
+17.3 3 pnie
+>999 MOB

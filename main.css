@@ -1,0 +1,71 @@
+#strona{
+	width:100%;
+}
+
+#baner{
+	width: 100%;
+	height:500px;
+	background-color: #333;
+	text-align: center;
+	color: #321;
+	text-shadow: 2px 2px 2px #222;
+	font-size: 100px;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+	font-family: Impact;
+}
+
+#menu{
+	width: 20%;
+	height: 400px;
+	float: left;	
+	background-color: #4a772d;
+}
+
+#tresc{
+	width: 60%;
+	height: 400px;
+	float: left;	
+	background-color: #493b24;
+}
+
+#stopka{
+	font-size:15px;
+	width: 100%;
+	height:100px;
+	background-color: #385723;
+	vertical-align: bottom;
+	text-align: right;	
+}
+
+.baner-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.przycisk{
+	border: 0;
+    background-color: #493b24;
+	color: #dbc8a7;
+	padding: 5px;
+	width: 100px;
+	cursor: pointer;
+}
+
+#logowanie {
+	width: 20%;
+	height: 400px;
+	float: left;	
+	text-align: center;
+	background-color: #4a772d;
+	line-height: 140%;
+}
+
+.klawisz{
+	background-color:#38362d; 
+	height:35px; 
+	width:35px; 
+	text-align: center;	
+	cursor: pointer;
+}
